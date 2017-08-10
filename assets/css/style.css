@@ -1,0 +1,48 @@
+#headerLogo{
+	width: 200px;
+	height: 200px;
+}
+
+#textoHeaderLogo{
+	margin-top: 50px;
+	font-size: 50px;
+}
+
+.linea_separacion{
+	margin-top: 200px;
+}
+footer {
+  color: white;
+}
+footer h3 {
+  margin-bottom: 30px;
+}
+footer .footer-above {
+  padding-top: 50px;
+  background-color: #2C3E50;
+}
+footer .footer-col {
+  margin-bottom: 50px;
+}
+footer .footer-below {
+  padding: 25px 0;
+  background-color: #233140;
+}
+
+
+
+
+#letraInventarioTabla{
+	font-size: 12px;
+}
+.navbar-custom {
+    background-color: #34495E;
+}
+
+.top-nav>li>a:hover, .top-nav>li>a:focus, .top-nav>.open>a, .top-nav>.open>a:hover, .top-nav>.open>a:focus{
+	background-color: #2C3E50;
+}
+
+.linea_horizontal {
+  height: 100%;
+  border-left: 1px solid #e7e7e7;
